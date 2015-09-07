@@ -24,7 +24,11 @@
             {
                 "key": "ngClick",
                 "val": "The ngClick directive allows you to specify custom behavior when an element is clicked"
+<<<<<<< HEAD
             },
+=======
+            }, 
+>>>>>>> 5ec6ab4... Angular Js cheatsheet
             {
                 "key": "ngDisabled",
                 "val": "This directive sets the disabled attribute on the element if the expression inside ngDisabled evaluates to truthy"
@@ -36,7 +40,11 @@
             {
                 "key": "ngMouseup",
                 "val": "Specify custom behavior on mouseup event"
+<<<<<<< HEAD
             },
+=======
+            },                                                                                    
+>>>>>>> 5ec6ab4... Angular Js cheatsheet
             {
                 "key": "ngMouseover",
                 "val": "Specify custom behavior on mouseover event"
@@ -48,16 +56,27 @@
             {
                 "key": "ngMouseleave",
                 "val": "Specify custom behavior on mouseleave event"
+<<<<<<< HEAD
             }                                                                                                                                                                                                                                                                                                                                                                                                              
           ],
           "Directives (continued)" : [
+=======
+            }
+          ],
+          "Directives (continued)" : [        
+>>>>>>> 5ec6ab4... Angular Js cheatsheet
             {
                 "key": "ngMousemove",
                 "val": "Specify custom behavior on mousemove event"
             },
             {
+<<<<<<< HEAD
                 "key": "ngKeydown",
                 "val": "Specify custom behavior on keydown event"
+=======
+                "key": "ngKeydown",           
+                "val": "Specify custom behavior on keydown event" 
+>>>>>>> 5ec6ab4... Angular Js cheatsheet
             },
             {
                 "key": "ngKeyup",
@@ -90,7 +109,14 @@
             {
                 "key": "ngPaste",
                 "val": "Specify custom behavior on paste event"
+<<<<<<< HEAD
             }                                                                                                                                                                                                                                                                                                                                                                                                              
           ]
      }                                                                                                                                                                                                                                                                                                                                                                                                                     
 }  
+=======
+            }
+          ]                                                                           
+     } 
+}
+>>>>>>> 5ec6ab4... Angular Js cheatsheet
